@@ -21,5 +21,5 @@ line 12 ```year``` でダウンロードする年を入力
 ### 二つの観測所のデータをCSVファイルに合併（研究解析用）
 ***閏年データに未対応です。***
 * *excel to csv.py*  
-line 8 ```input_file_name1```と line 9 ```input_file_name2```にダウンロードした二つの観測所データからそれぞれいずれか一つのファイル名を入力する。
+line 8 ```input_file_name1```と line 9 ```input_file_name2```にダウンロードした二つの観測所データからそれぞれいずれか一つのファイル名を入力する。  
 line 10 ```spot1_path```と line 11 ```spot2_path```に入力ファイルのdirectoryを入力する。
