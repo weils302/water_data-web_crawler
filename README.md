@@ -6,17 +6,18 @@
 ## 使用方法
 
 ### データダウンロード
- * *web_crawler_water level.py*  
+ * ***web_crawler_water level.py***  
 水位データダウンロード用
- * *web_crawler_discharge.py*  
+ * ***web_crawler_discharge.py***  
 流量データダウンロード用
- * *web_crawler_precipitation.py*  
+ * ***web_crawler_precipitation.py***  
 雨量データダウンロード用
 
 line 10 ```spot_ID``` で観測所記号を入力  
 line 11 ```spot_name``` で出力ファイル名に書く観測所名を入力  
 line 12 ```year``` でダウンロードする年を入力
 
+<br>
 
 ### 二つの観測所のデータをCSVファイルに合併（研究解析用）
 ***閏年データに未対応です。***
