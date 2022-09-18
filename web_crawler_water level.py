@@ -7,9 +7,9 @@ import datetime
 import urllib.request
 import chardet
 
-spot_ID = '305091285502450'
-spot_name = 'shio'  # 保存するファイル名に書く観測所の名前
-year = '2021'
+spot_ID = ''
+spot_name = ''  # 保存するファイル名に書く観測所の名前
+year = ''
 present_year = datetime.datetime.now().year
 
 for a in range(1, 13):
